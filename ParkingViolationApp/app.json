@@ -1,0 +1,7 @@
+{
+  "name": "ParkingViolationApp",
+  "slug": "ParkingViolationApp",
+  "plugins": [
+    "expo-router"
+  ]
+}

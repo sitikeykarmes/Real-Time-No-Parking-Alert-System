@@ -1,0 +1,29 @@
+# General
+.DS_Store
+.env
+*.log
+*.local
+
+# Node.js
+node_modules/
+
+# Expo
+ParkingViolationApp/.expo/
+ParkingViolationApp/.expo-shared/
+ParkingViolationApp/node_modules/
+ParkingViolationApp/dist/
+ParkingViolationApp/build/
+ParkingViolationApp/bin/
+ParkingViolationApp/lib
+
+# Python (if backend uses it)
+backend/__pycache__/
+backend/venv/
+backend/.env
+
+# macOS
+*.DS_Store
+
+# IDEs
+.vscode/
+.idea/
